@@ -1,11 +1,11 @@
-﻿# FrontEnd-Technical-Evaluation
+﻿# FrontEnd Technical Evaluation
  
 Project created with React-Native and Typescript
 
-# Start: 
+Start: 
 
 npm install or yarn install 
 
-# Execute Android:
+Execute Android:
 
 npx react-native run-android
